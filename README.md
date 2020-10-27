@@ -1,4 +1,4 @@
-# CIC
+# DevSecOps-MicroService-Hub
 
 ## Introduction
 
