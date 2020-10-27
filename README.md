@@ -1,6 +1,21 @@
-# DevSecOps-MicroService-Hub
+# DevSecOps MicroService Hub
 
 ## Introduction
+
+DevOps is a culture that emphasize the collaboration and communication of all IT roles necessary to develop, deliver and support software and infrastructure through automation while eliminating silos and delays caused by organization boundaries. 
+
+
+
+## Features
+* [x] Project Dashboard
+* [x] 3rd party component monitor
+* [x] malware scan automation
+* [x] klockwork status monitor
+* [x] sdle status monitor
+* [x] BDBA automation
+
+
+
 
 CIC is short for [Celadon](https://01.org/projectceladon) in Container. The goal of this feature is to put [Celadon](https://01.org/projectceladon) [Android](https://www.android.com/) images in [Docker](https://www.docker.com/) containers. So that you could deploy the image on Linux devices through [Docker](https://www.docker.com/) tools. And then, you could run Android applications in it.
 
