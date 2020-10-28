@@ -21,8 +21,7 @@ DevSecOps include following micro service:
 * [x] BDBA automation
 
 ## Getting Started
-For help getting started with DevSecOps, view our online documentation.
-[documentation](https://.../).
+For help getting started with DevSecOps, view our online[documentation](https://.../).
 
 
 
