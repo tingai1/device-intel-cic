@@ -11,6 +11,8 @@ DevOps is a culture that emphasize the collaboration and communication of all IT
 DevSecOps version 0.5 provide an early view of this feature, for pilot and development purpose. 
 
 ## Features
+
+DevSecOps include following micro service:
 * [x] Project Dashboard
 * [x] 3rd party component monitor
 * [x] malware scan automation
