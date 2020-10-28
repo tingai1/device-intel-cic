@@ -4,7 +4,11 @@
 
 DevOps is a culture that emphasize the collaboration and communication of all IT roles necessary to develop, deliver and support software and infrastructure through automation while eliminating silos and delays caused by organization boundaries. 
 
+## Version history
 
+### v0.1
+
+DevSecOps version 0.5 provide an early view of this feature, for pilot and development purpose. 
 
 ## Features
 * [x] Project Dashboard
@@ -21,11 +25,7 @@ For help getting started with Flutter, view our online documentation.
 
 CIC is short for [Celadon](https://01.org/projectceladon) in Container. The goal of this feature is to put [Celadon](https://01.org/projectceladon) [Android](https://www.android.com/) images in [Docker](https://www.docker.com/) containers. So that you could deploy the image on Linux devices through [Docker](https://www.docker.com/) tools. And then, you could run Android applications in it.
 
-## Version history
 
-### v0.5
-
-CIC version 0.5 provide an early view of this feature, for pilot and development purpose. Some features, including Trusty, Verified Boot, and OTA update are not included in this version. These features is planned for upcoming releases.
 
 ## Environment
 
