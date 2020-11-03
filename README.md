@@ -31,11 +31,7 @@ DevSecOps uses [GitHub Pull-Requests](https://docs.github.com/en/free-pro-team@l
 
 We recommend you create commit messages in the following format when you submit your code to DevSecOps:
 
-[DevSecOps] <One Line Summary>
-  
-<Description>
-
-Signed-off:
+![Image text](https://gitlab.devtools.intel.com/g-security/dmh/dmh-documentation/-/blob/tingai/format.png)
 
 ## CONTACT US
 
