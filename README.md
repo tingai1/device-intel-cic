@@ -26,6 +26,16 @@ DevSecOps include following micro service:
 For help getting started with DevSecOps, view our online[documentation](https://.../).
 
 
+## Submit your patches
+DevSecOps uses [GitHub Pull-Requests](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests) (PR) to submit and review code submissions. You can set up a local workspace. Do this by cloning the source repository on your computer if you would like to propose changes to repository, create a Pull Request, and send the URL of the PR to the project owners for review. You may revise and update the submitted PRs to address any review feedback from the project owners.
+
+We recommend you create commit messages in the following format when you submit your code to DevSecOps:
+
+[DevSecOps] <One Line Summary>
+  
+<Description>
+
+Signed-off:
 
 ## CONTACT US
 
